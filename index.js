@@ -9,3 +9,12 @@ function saturdayFun (){
     
 }
 saturdayFun()
+
+function mondayWork(){
+const work = "work from home"
+const office = 'go to the office'
+
+    // return `This Monday, I will ${office}.`
+    return `This Monday, I will ${work}.`
+    
+}
